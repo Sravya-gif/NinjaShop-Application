@@ -1,4 +1,4 @@
-# 🛒 NinjaShop Automation Framework
+# NinjaShop Automation Framework
 
 ## Project Description
 
