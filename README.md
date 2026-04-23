@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is a Selenium Java Automation Framework developed using Page Object Model (POM) for an e-commerce demo application (TutorialsNinja).
+This project is a Selenium Java Automation Framework developed using Page Object Model (POM) for an e-commerce demo application.
 
 ---
 
